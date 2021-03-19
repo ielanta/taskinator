@@ -1,2 +1,2 @@
 Django==2.2.2
-DjangoRestFramework==3.9.4
+DjangoRestFramework==3.11.2
